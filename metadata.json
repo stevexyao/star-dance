@@ -1,0 +1,8 @@
+{
+  "name": "Celestial Particles - Gesture Controlled Art",
+  "description": "An immersive interactive particle system that dances with your hand gestures using MediaPipe tracking and Gemini-powered creative themes.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
